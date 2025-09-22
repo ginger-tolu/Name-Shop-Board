@@ -104,7 +104,7 @@ export default function Testimonials() {
 
                   {/* Quote */}
                   <blockquote className="text-lg lg:text-xl text-gray-700 mb-6 leading-relaxed">
-                    "{testimonials[currentTestimonial].comment}"
+                    {testimonials[currentTestimonial].comment}
                   </blockquote>
 
                   {/* Client Info */}
@@ -131,11 +131,10 @@ export default function Testimonials() {
               <button
                 key={index}
                 onClick={() => setCurrentTestimonial(index)}
-                className={`w-3 h-3 rounded-full transition-all duration-300 ${
-                  currentTestimonial === index
-                    ? 'bg-orange-500 w-8'
-                    : 'bg-gray-300 hover:bg-gray-400'
-                }`}
+                className={`w-3 h-3 rounded-full transition-all duration-300 ${currentTestimonial === index
+                  ? 'bg-orange-500 w-8'
+                  : 'bg-gray-300 hover:bg-gray-400'
+                  }`}
               />
             ))}
           </div>
