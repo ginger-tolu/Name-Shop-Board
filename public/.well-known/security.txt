@@ -1,0 +1,12 @@
+Contact: mailto:security@shopnameboards.com
+Contact: https://www.shopnameboards.com/contact
+Expires: 2025-12-31T23:59:59.000Z
+Preferred-Languages: en, hi
+Canonical: https://www.shopnameboards.com/.well-known/security.txt
+
+Policy: https://www.shopnameboards.com/security-policy
+Acknowledgments: https://www.shopnameboards.com/security-acknowledgments
+
+# Shop Name Boards Security Contact
+# Report security vulnerabilities responsibly
+# We appreciate your efforts to improve our security

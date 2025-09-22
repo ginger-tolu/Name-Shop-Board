@@ -1,0 +1,39 @@
+# The humans responsible & technology colophon
+
+# TEAM
+
+Founder & CEO: Shop Name Boards Team
+Contact: contact [at] shopnameboards.com
+From: Bengaluru, Karnataka, India
+
+# THANKS
+
+All our customers who trust us with their business signage needs
+The open source community for amazing tools and libraries
+
+# TECHNOLOGY COLOPHON
+
+HTML5, CSS3, JavaScript
+Framework: Next.js 15.5
+Styling: Tailwind CSS 4
+Fonts: Geist Sans, Geist Mono
+Icons: Custom SVG icons
+Images: Optimized WebP and AVIF formats
+
+# STANDARDS
+
+HTML5, CSS3
+Responsive Design
+Progressive Web App (PWA)
+Search Engine Optimization (SEO)
+Web Accessibility Guidelines (WCAG)
+Core Web Vitals Optimized
+
+# SITE INFO
+
+Site: https://www.shopnameboards.com
+Version: 2024.1
+Last Update: 2024/09/22
+Language: English (India)
+Doctype: HTML5
+IDE: Visual Studio Code
